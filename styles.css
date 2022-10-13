@@ -1,0 +1,32 @@
+body {
+    background-color: yellow;
+    
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size:  5.5em;
+}
+
+.inputBox {
+     width: 300px;
+     height: 30px;
+     position: relative;
+     left: 40%;
+     
+}
+
+
+#inputBar {
+    width: 200px;
+    height: 20px;
+    border-radius: 2px;
+}
+
+
+.paragraph-style {
+    margin: 0;
+    cursor: pointer;
+    font-size: 25px;
+}
